@@ -10,9 +10,9 @@ Content will be continually be added to this repo over time, so if you have a co
 
 ## Learning the Go Language
 
-1. Setting up your Developer Environment
-    - [lesson](https://github.com/willvelida/learn-go-on-azure/tree/main/LearnGo/1-setting-up-your-environment)
-    - [blog post](https://www.willvelida.com/posts/setting-up-dev-environment-golang/)
+| **Lesson Title** | GitHub | Blog Post |
+| ---------------- | ------ | --------- |
+|  Setting up your Developer Environment | [Link](https://github.com/willvelida/learn-go-on-azure/tree/main/LearnGo/1-setting-up-your-environment) | [Blog](https://www.willvelida.com/posts/setting-up-dev-environment-golang/) |
 
 ## Build Go apps in Azure
 
