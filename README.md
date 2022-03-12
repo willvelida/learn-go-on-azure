@@ -13,7 +13,7 @@ Content will be continually be added to this repo over time, so if you have a co
 | **Lesson Title** | GitHub | Blog Post |
 | ---------------- | ------ | --------- |
 |  Setting up your Developer Environment | [Link](https://github.com/willvelida/learn-go-on-azure/tree/main/LearnGo/1-setting-up-your-environment) | [Blog](https://www.willvelida.com/posts/setting-up-dev-environment-golang/) |
-| Types in Go | | |
+| Types in Go | [Link](https://github.com/willvelida/learn-go-on-azure/tree/main/LearnGo/2-types-in-go) | [Blog](https://www.willvelida.com/posts/types-in-go/) |
  
 ## Build Go apps in Azure
 
