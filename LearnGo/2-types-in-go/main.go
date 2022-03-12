@@ -9,6 +9,7 @@ func main() {
 	// strings
 	var greeting string = "This is a string!"
 	fmt.Println(greeting)
+	fmt.Println("Hello, " + "World")
 
 	// booleans
 	var falseValue bool
