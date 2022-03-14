@@ -14,7 +14,7 @@ Content will be continually be added to this repo over time, so if you have a co
 | ---------------- | ------ | --------- |
 |  Setting up your Developer Environment | [Link](https://github.com/willvelida/learn-go-on-azure/tree/main/LearnGo/1-setting-up-your-environment) | [Blog](https://www.willvelida.com/posts/setting-up-dev-environment-golang/) |
 | Types in Go | [Link](https://github.com/willvelida/learn-go-on-azure/tree/main/LearnGo/2-types-in-go) | [Blog](https://www.willvelida.com/posts/types-in-go/) |
-| If/else if/else statements | [Link]() | [Blog]() |
+| If/else if/else statements | [Link](https://github.com/willvelida/learn-go-on-azure/blob/main/LearnGo/3-if-else-statements/main.go) | [Blog](https://www.willvelida.com/posts/if-else-statements/) |
  
 ## Build Go apps in Azure
 
