@@ -18,7 +18,7 @@ Content will be continually be added to this repo over time, so if you have a co
 | Switch Statements | [Link](https://github.com/willvelida/learn-go-on-azure/tree/main/LearnGo/4-switch-statements) | |
 | For Loops | [Link](https://github.com/willvelida/learn-go-on-azure/tree/main/LearnGo/5-for-loops) | |
 | Arrays and Slices | [Link](https://github.com/willvelida/learn-go-on-azure/tree/main/LearnGo/6-arrays-and-slices) | |
-| Functions | [Link]() | |
+| Functions | [Link](https://github.com/willvelida/learn-go-on-azure/tree/main/LearnGo/7-functions) | |
 
 ## Go Coding Challenges
 
